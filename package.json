@@ -39,6 +39,7 @@
     "typescript": "5.1.6",
     "world-countries": "^4.0.0",
     "zustand": "^4.4.1"
+    
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.0",
